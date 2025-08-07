@@ -1,0 +1,16 @@
+.todo-container {
+    padding: 200px;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.todo-list {
+    margin-top: 20px;
+}
